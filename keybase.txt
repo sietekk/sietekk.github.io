@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/sietekk
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://michaelconroy.dev
+  * I am sietekk (https://keybase.io/sietekk) on keybase.
+  * I have a public key ASAxTiYc7l8yb0cwp9GTlRpyjdwe1NLP7WDoWb5j-34u1wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120217508bba221df7fb0bd1e0d10c9592501dcd2f2c7a15197e46419ed9d9429340a",
+      "host": "keybase.io",
+      "kid": "0120314e261cee5f326f4730a7d193951a728ddc1ed4d2cfed60e859be63fb7e2ed70a",
+      "uid": "8e72035c669f134f2735f65295849e19",
+      "username": "sietekk"
+    },
+    "merkle_root": {
+      "ctime": 1568729941,
+      "hash": "7177b23b2f21020a0d103d4c5e07a2f89b7221677f14e7463e3c9de23b1c06daa2884a3f648dd948f0d7718e0ff34c0e48af862ea4b419b471541a01b82b9743",
+      "hash_meta": "e7a3f29d1573c1925c92dd980f898f91d2a48e1997b9a4a1ee36890eb39c24f6",
+      "seqno": 7520761
+    },
+    "service": {
+      "entropy": "EnFRH7DcU5RX7zNimajQ8Xum",
+      "hostname": "michaelconroy.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568730011,
+  "expire_in": 504576000,
+  "prev": "23acbb35fb7721455d65689e7b543392e7bcbf49e077b28b35afec12b8dbc293",
+  "seqno": 36,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMU4mHO5fMm9HMKfRk5Uaco3cHtTSz+1g6Fm+Y/t+LtcKp3BheWxvYWTESpcCJMQgI6y7Nft3IUVdZWiee1Qzkue8v0ngd7KLNa/sErjbwpPEIGRZ/oLaWoCx8gFoMotPZN/NEos24qnskLy8XamUIFTPAgHCo3NpZ8RAuXivYs/Y8a9OmWvYPZdcTnBufC+We6ioufzF+ggvlTiHRuKwfzp0ukYJ8scE1vUsNEYqEHICTI2ilOrSdNmOCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIH/hmTmdc4pgf5Pfw3U8T7zQ7UN/omX6T6pA7sRyBHJoo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sietekk
+
+==================================================================
